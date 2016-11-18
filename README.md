@@ -14,5 +14,5 @@ Then go to this URL in your browser:
 
 You should see some info about your search!
 
-[twarc]: https://github.com/DocumentNow/twarc
+[twarc]: https://github.com/DocNow/twarc
 [microservice]: https://en.wikipedia.org/wiki/Microservices
