@@ -4,7 +4,7 @@ twarcd is a [microservice] for [twarc].
 
 ## Usage
 
-Start twarcd with the usual options you would use with twarc:
+Start twarcd with the usual command line options you would use with twarc:
 
     twarcd --search obama 
 
