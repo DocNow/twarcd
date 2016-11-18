@@ -14,3 +14,6 @@ Then go to this URL in your browser:
     http://0.0.0.0:8080 
 
 You should see some info about your search!
+
+[twarc]: https://github.com/DocumentNow/twarc
+[microservice]: https://en.wikipedia.org/wiki/Microservices
