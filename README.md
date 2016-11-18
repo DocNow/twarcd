@@ -1,7 +1,7 @@
 # twarcd
 
-This is a thought experiment for what a [twarc] [microservice] could look like.
-If you think it's crazy please let me know!
+This is a thought experiment for exploring what a [twarc] 
+[microservice] could look like.  If you think it's crazy please let me know!
 
 ## Usage
 
