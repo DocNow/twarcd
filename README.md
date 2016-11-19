@@ -4,9 +4,9 @@ twarcd is a [microservice] for [twarc].
 
 ## Usage
 
-Start twarcd with the usual command line options you would use with twarc:
+Start twarcd just as you would twarc:
 
-    twarcd --search obama 
+    twarcd filter obama 
 
 Then go to this URL in your browser:
 
