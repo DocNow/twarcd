@@ -1,3 +1,3 @@
 flask
 redis
-git+git://github.com/docnow/twarc.git@argparse-refactor#egg=twarc
+twarc
